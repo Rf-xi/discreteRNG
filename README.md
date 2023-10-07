@@ -1,6 +1,6 @@
 # discreteRNG
 
-###A C++ library for generating discrete random numbers according to the Zipf-Mandelbrot distrbution.
+### A C++ library for generating discrete random numbers according to the Zipf-Mandelbrot distrbution.
 
 ## Zipf-Mandelbrot
 
